@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# MONSTER ROLODEX
 
-This is just an exercise review aspects of React using class components
+### DESCRIPTION
+
+This is just an exercise to review aspects of React using class components
+
+---
+
+#### API USED
+
+[monsters API](https://jsonplaceholder.typicode.com/users)
 
 
 
